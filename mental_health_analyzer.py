@@ -1,22 +1,3 @@
-"""
-Mental Health Journal Analyzer
---------------------------------
-Features:
-- Daily journal entry system
-- Mood tracking
-- AI-like emotional pattern recognition
-- Stress prediction
-- Crisis alerts
-- Data visualization
-- Simple ML model training
-
-Requirements:
-pip install pandas matplotlib scikit-learn textblob
-
-Run:
-python mental_health_journal_analyzer.py
-"""
-
 import os
 import re
 import json
