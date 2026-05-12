@@ -1,0 +1,107 @@
+date,journal_text,sentiment,mood,stress_score,crisis_alert
+2026-05-12 08:00:12,"woke up feeling calm and refreshed",0.7,Positive,2,False
+2026-05-12 08:12:45,"anxious about the project deadline today",-0.4,Negative,35,False
+2026-05-12 08:25:11,"had a peaceful morning walk and felt relaxed",0.8,Positive,0,False
+2026-05-12 08:37:50,"feeling exhausted after continuous meetings",-0.5,Negative,45,False
+2026-05-12 08:49:33,"happy after talking with an old friend",0.9,Positive,0,False
+2026-05-12 09:02:14,"slightly stressed about pending assignments",-0.2,Neutral,20,False
+2026-05-12 09:15:22,"motivated and energetic to start the day",0.6,Positive,0,False
+2026-05-12 09:28:01,"feeling lonely and emotionally drained",-0.6,Negative,55,False
+2026-05-12 09:41:36,"completed tasks successfully and feel proud",0.8,Positive,0,False
+2026-05-12 09:53:48,"worried about upcoming exams",-0.3,Neutral,28,False
+2026-05-12 10:05:31,"mind feels cluttered and unfocused",-0.5,Negative,40,False
+2026-05-12 10:18:10,"felt cheerful after listening to music",0.7,Positive,0,False
+2026-05-12 10:29:44,"overthinking too much about the future",-0.6,Negative,50,False
+2026-05-12 10:42:26,"feeling balanced and emotionally stable",0.5,Positive,0,False
+2026-05-12 10:55:13,"tight schedule making me feel pressured",-0.4,Negative,38,False
+2026-05-12 11:07:59,"excited about learning something new today",0.9,Positive,0,False
+2026-05-12 11:20:15,"emotionally tired and unable to focus",-0.5,Negative,48,False
+2026-05-12 11:33:42,"productive day and feeling accomplished",0.8,Positive,0,False
+2026-05-12 11:45:28,"small argument ruined my mood",-0.4,Negative,32,False
+2026-05-12 11:58:50,"feeling optimistic and relaxed",0.7,Positive,0,False
+2026-05-12 12:10:33,"work pressure is becoming difficult to manage",-0.7,Negative,60,False
+2026-05-12 12:23:07,"had a nice lunch and feel better now",0.5,Positive,0,False
+2026-05-12 12:35:49,"feeling emotionally numb today",-0.6,Negative,52,False
+2026-05-12 12:48:18,"light mood and enjoying the weather",0.6,Positive,0,False
+2026-05-12 13:00:02,"worried about financial problems",-0.5,Negative,42,False
+2026-05-12 13:13:26,"feeling grateful and peaceful",0.8,Positive,0,False
+2026-05-12 13:26:41,"headache and stress ruining concentration",-0.5,Negative,45,False
+2026-05-12 13:39:10,"laughed a lot with friends today",0.9,Positive,0,False
+2026-05-12 13:51:52,"feeling overwhelmed with responsibilities",-0.7,Negative,65,False
+2026-05-12 14:04:36,"mind feels clear and productive",0.6,Positive,0,False
+2026-05-12 14:17:05,"low energy and negative thoughts",-0.6,Negative,50,False
+2026-05-12 14:29:59,"happy after receiving appreciation at work",0.8,Positive,0,False
+2026-05-12 14:42:18,"stress increasing because of deadlines",-0.5,Negative,46,False
+2026-05-12 14:55:43,"feeling motivated after finishing exercise",0.7,Positive,0,False
+2026-05-12 15:08:26,"confused and mentally tired",-0.4,Neutral,25,False
+2026-05-12 15:20:55,"calm evening and relaxed thoughts",0.6,Positive,0,False
+2026-05-12 15:33:12,"frustrated because nothing is going right",-0.7,Negative,58,False
+2026-05-12 15:45:39,"good progress today makes me feel satisfied",0.8,Positive,0,False
+2026-05-12 15:58:04,"anxiety is affecting my sleep",-0.8,Negative,72,False
+2026-05-12 16:10:28,"spent quality time with family and felt happy",0.9,Positive,0,False
+2026-05-12 16:23:16,"emotionally unstable and irritated",-0.5,Negative,47,False
+2026-05-12 16:35:50,"feeling creative and inspired",0.7,Positive,0,False
+2026-05-12 16:48:09,"too much workload causing burnout",-0.8,Negative,70,False
+2026-05-12 17:00:31,"peaceful mind after meditation",0.8,Positive,0,False
+2026-05-12 17:13:18,"worried nobody understands me",-0.6,Negative,55,False
+2026-05-12 17:26:44,"feeling hopeful about tomorrow",0.7,Positive,0,False
+2026-05-12 17:39:27,"constant pressure making me anxious",-0.7,Negative,62,False
+2026-05-12 17:52:13,"felt joyful while cooking dinner",0.8,Positive,0,False
+2026-05-12 18:05:36,"mentally drained after long study session",-0.5,Negative,43,False
+2026-05-12 18:18:59,"feeling relaxed after watching a movie",0.6,Positive,0,False
+2026-05-12 18:31:40,"disappointed with my performance today",-0.6,Negative,50,False
+2026-05-12 18:44:15,"feeling energetic and positive",0.7,Positive,0,False
+2026-05-12 18:57:38,"stress levels are very high tonight",-0.8,Negative,74,False
+2026-05-12 19:10:24,"feeling calm after finishing all work",0.7,Positive,0,False
+2026-05-12 19:23:46,"sad and missing old memories",-0.5,Negative,35,False
+2026-05-12 19:36:18,"great mood after getting good news",0.9,Positive,0,False
+2026-05-12 19:49:50,"feeling hopeless and emotionally weak",-0.9,Negative,80,True
+2026-05-12 20:02:14,"quiet evening and stable emotions",0.5,Positive,0,False
+2026-05-12 20:15:27,"stressed because of unfinished tasks",-0.6,Negative,52,False
+2026-05-12 20:28:33,"happy and grateful for today's achievements",0.8,Positive,0,False
+2026-05-12 20:41:59,"mind feels heavy and restless",-0.7,Negative,60,False
+2026-05-12 20:54:11,"peaceful thoughts before sleeping",0.6,Positive,0,False
+2026-05-12 21:07:26,"feeling ignored and emotionally hurt",-0.6,Negative,57,False
+2026-05-12 21:20:35,"relaxed after taking a short break",0.5,Positive,0,False
+2026-05-12 21:33:43,"panic about tomorrow's presentation",-0.8,Negative,68,False
+2026-05-12 21:46:51,"confident and motivated tonight",0.7,Positive,0,False
+2026-05-12 22:00:09,"feeling mentally exhausted and sad",-0.7,Negative,65,False
+2026-05-12 22:13:28,"good conversation improved my mood",0.8,Positive,0,False
+2026-05-12 22:26:40,"unable to stop worrying about problems",-0.7,Negative,63,False
+2026-05-12 22:39:55,"feeling lighthearted and calm",0.6,Positive,0,False
+2026-05-12 22:52:17,"stress and anxiety are too much tonight",-0.9,Negative,82,True
+2026-05-12 23:05:30,"content and peaceful before bed",0.7,Positive,0,False
+2026-05-12 23:18:46,"feeling empty and disconnected",-0.6,Negative,54,False
+2026-05-12 23:31:58,"happy after completing my goals",0.8,Positive,0,False
+2026-05-13 00:10:14,"could not sleep because of overthinking",-0.7,Negative,64,False
+2026-05-13 00:23:39,"feeling calm while reading a book",0.6,Positive,0,False
+2026-05-13 00:36:42,"emotionally sensitive and stressed",-0.5,Negative,45,False
+2026-05-13 00:49:57,"peaceful late night reflections",0.7,Positive,0,False
+2026-05-13 01:03:20,"feeling lost and uncertain about life",-0.8,Negative,76,True
+2026-05-13 01:16:31,"motivated to improve myself tomorrow",0.6,Positive,0,False
+2026-05-13 01:29:44,"too much emotional pressure today",-0.7,Negative,66,False
+2026-05-13 01:42:55,"feeling joyful after hearing good music",0.8,Positive,0,False
+2026-05-13 01:55:18,"stress from studies is overwhelming",-0.8,Negative,71,False
+2026-05-13 02:08:29,"feeling thankful and emotionally stable",0.7,Positive,0,False
+2026-05-13 02:21:40,"mind feels tired and anxious",-0.6,Negative,56,False
+2026-05-13 02:34:52,"happy with the progress I made today",0.8,Positive,0,False
+2026-05-13 02:48:11,"feeling emotionally weak and isolated",-0.8,Negative,73,False
+2026-05-13 03:01:20,"calm mood after deep breathing exercises",0.6,Positive,0,False
+2026-05-13 03:14:38,"frustrated by continuous setbacks",-0.7,Negative,61,False
+2026-05-13 03:27:57,"peaceful and relaxed after tea",0.5,Positive,0,False
+2026-05-13 03:40:26,"thoughts are becoming too negative",-0.9,Negative,85,True
+2026-05-13 03:53:45,"feeling inspired and hopeful",0.8,Positive,0,False
+2026-05-13 04:06:58,"pressure from work making me panic",-0.8,Negative,75,False
+2026-05-13 04:19:12,"feeling emotionally calm and stable",0.6,Positive,0,False
+2026-05-13 04:32:30,"sadness and anxiety returning again",-0.7,Negative,62,False
+2026-05-13 04:45:48,"feeling cheerful and optimistic",0.8,Positive,0,False
+2026-05-13 04:58:59,"completely drained after a stressful day",-0.8,Negative,74,False
+2026-05-13 05:11:17,"feeling fresh and ready for a new start",0.9,Positive,0,False
+2026-05-13 05:24:33,"unable to manage emotional stress",-0.8,Negative,78,True
+2026-05-13 05:37:46,"happy and relaxed after morning exercise",0.8,Positive,0,False
+2026-05-13 05:50:58,"feeling mentally overloaded",-0.7,Negative,67,False
+2026-05-13 06:03:19,"positive energy and peaceful thoughts",0.7,Positive,0,False
+2026-05-13 06:16:41,"feeling trapped in negative emotions",-0.9,Negative,88,True
+2026-05-13 06:29:55,"grateful for support from friends",0.8,Positive,0,False
+2026-05-13 06:42:13,"stress about career decisions is growing",-0.6,Negative,58,False
+2026-05-13 06:55:30,"calm and balanced mood this morning",0.6,Positive,0,False
