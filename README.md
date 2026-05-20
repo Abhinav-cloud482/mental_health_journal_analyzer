@@ -2,11 +2,10 @@
 AI-powered mental health journal analyzer that performs sentiment analysis, stress prediction, crisis detection, mood tracking, and data visualization using Python and machine learning.
 
 
-# Mental Health Journal Analyzer 🧠
+## Mental Health Journal Analyzer 
 
 A Python-based CLI application that analyzes journal entries to detect mood, stress levels, and emotional patterns using NLP and basic machine learning.
 
----
 
 ## Features
 
@@ -19,7 +18,6 @@ A Python-based CLI application that analyzes journal entries to detect mood, str
 - Stores all entries in CSV format
 - View analytics and trends
 
----
 
 ## Tech Stack
 
@@ -29,25 +27,30 @@ A Python-based CLI application that analyzes journal entries to detect mood, str
 - scikit-learn
 - TextBlob
 
----
 
 ## How to Run
 
 ### Install dependencies
+
+```
 pip install pandas matplotlib scikit-learn textblob
+```
 
 ### Run the project
-python mental_health_analyzer.py
 
----
+```
+python mental_health_analyzer.py
+```
+
 
 ## Project Structure
 
+```
 mental_health_analyzer.py   -> Main application  
 journal_entries.csv         -> Data file (auto-generated)  
 README.md                   -> Documentation  
+```
 
----
 
 ## How It Works
 
@@ -73,14 +76,15 @@ Detects sensitive keywords like:
 - Mood distribution bar chart
 - Stress trend line chart
 
----
 
 ## Disclaimer
 
 This project is for educational purposes only and is not a medical or psychological diagnosis tool. If crisis alerts appear, seek professional help immediately.
 
----
 
 ## Author
 
 Python NLP + ML practice project for learning sentiment analysis and text classification.
+
+Abhinav Dixit
+
